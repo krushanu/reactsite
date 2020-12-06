@@ -1,0 +1,9 @@
+.MuiButtonBase-root.Mui-disabled {
+	/* color: black; */
+	pointer-events: none;
+}
+
+.MuiCard-root .MuiAccordion-root.Mui-disabled {
+	background-color: #fefefe00;
+}
+
